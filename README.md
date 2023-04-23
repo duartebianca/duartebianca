@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartebianca&count_private=true&show_icons=true&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duartebianca&layout=compact&theme=jolly)
 -->
-
-[![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartebianca&count_private=true&show_icons=true&theme=jolly)](https://github.com/duartebianca/github-readme-stats)
+<div>
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=duartebianca&count_private=true&show_icons=true&theme=jolly">
+ <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartebianca&layout=compact&theme=jolly">
+</div>
