@@ -1,11 +1,12 @@
-### Hi there 👋
-
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartebianca&count_private=true&show_icons=true&theme=jolly&hide=stars,issues)
+### Hey, I'm Bianca Duarte Santos! 👋
+- 🖥️ I'm a Computer Engineering student at CIn-UFPE.
+- 📚 I love learning from books, text content and hands-on projects. I believe that the best way to learn is through real-world applications.
+- 💚 I am currently a Data Specialist at CITi-UFPE. 
+- 🦋 My biggest passion, besides Data, is education. You can check out my experiences on LinkedIn and let me share knowledge with you on Instagram.
 <div> 
   <a href="https://www.instagram.com/eng.comp.ufpe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:biancaduarte1914@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/biancaduartesantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 #### Languages, Libraries & BI tools
@@ -23,4 +24,6 @@
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Power BI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="Excel" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
-</div>
+</div><br>
+
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartebianca&count_private=true&show_icons=true&theme=jolly&hide=stars,issues)
