@@ -9,7 +9,7 @@
 </div>
 <div style="display: inline_block"><br>
  <h3>Languages, Libraries & BI tools</h3>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartebianca&layout=compact&theme=jolly">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartebianca&theme=jolly">
  <h5>- 📝 I’m currently learning: </h5>
   <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" alt="Matplolib" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png">
