@@ -7,15 +7,16 @@
   <a href="https://www.linkedin.com/in/biancaduartesantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+#### Languages, Libraries & BI tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duartebianca&hide_progress=True&theme=jolly)
 <div style="display: inline_block"><br>
- <h3>Languages, Libraries & BI tools</h3>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartebianca&theme=jolly">
  <h5>- 📝 I’m currently learning: </h5>
   <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" alt="Matplolib" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png">
   <img align="center" alt="Numpy" height="40" width="40" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png">
   <img align="center" alt="scikit-learn" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png">
- <h5>- 📝 I have some experience with: </h5>
+ <h5>- ⚙️ I have some experience with: </h5>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
