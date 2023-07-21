@@ -1,7 +1,7 @@
 ### Hey, I'm Bianca Duarte Santos! 👋
 - 🖥️ I'm a Computer Engineering student at CIn-UFPE.
 - 📚 I love learning from books, text content and hands-on projects. I believe that the best way to learn is through real-world applications.
-- 💚 I'm currently working as a Data Specialist at CITi-UFPE. 
+- 💚 I worked as a Data Specialist at CITi-UFPE until June 2023.
 - 🦋 My biggest passion, besides Data, is education. You can check out my experiences on LinkedIn and let me share knowledge with you on Instagram.
 <div> 
   <a href="https://www.instagram.com/eng.comp.ufpe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
