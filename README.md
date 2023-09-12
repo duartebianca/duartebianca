@@ -26,4 +26,4 @@
   <img align="center" alt="Excel" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
 </div><br>
 
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartebianca&count_private=true&show_icons=true&theme=jolly&hide=stars,issues)
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartebianca&count_private=true&show_icons=true&theme=jolly,issues)
