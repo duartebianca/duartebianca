@@ -16,13 +16,14 @@
 
  <h5>- 📝 I’m currently learning: </h5>
   <img align="center" alt="Go" height="70" width="70" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">
-  <img align="center" alt="Node.JS" height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
-  <img align="center" alt="React" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-  <img align="center" alt="JS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img align="center" alt="Grafana" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/grafana.svg">
  <h5>- ⚙️ I have some experience with: </h5>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="Node.JS" height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+  <img align="center" alt="React" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="TS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
   <br><br>
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="scikit-learn" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png">
@@ -30,6 +31,7 @@
   <img align="center" alt="Seaborn" height="40" width="40" src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png">
   <img align="center" alt="Matplolib" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png">
   <img align="center" alt="Numpy" height="40" width="40" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png">
+  <img align="center" alt="Chakra UI" height="40" width="40" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4">
   <br><br>
   <img align="center" alt="Power BI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="Excel" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
