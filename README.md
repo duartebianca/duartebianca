@@ -36,6 +36,8 @@
   <img align="center" alt="Power BI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="Excel" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
   <img align="center" alt="Tableau" height="40" width="70" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png">
+   <br><br>
+   <img align="center" alt="Prisma" height="30" width="85" src="https://redmonk.com/jgovernor/files/2021/05/Prisma-Logo-Black.png">
 </div><br>
 
 ![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartebianca&count_private=true&show_icons=true&theme=jolly,issues)
