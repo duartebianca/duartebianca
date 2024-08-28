@@ -15,8 +15,8 @@
 <div style="display: inline_block">
 
  <h5>- 📝 I’m currently learning: </h5>
+  <img align="center" alt="Streamlit" height="50" width="55" src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg">
   <img align="center" alt="Go" height="70" width="70" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">
-  <img align="center" alt="Grafana" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/grafana.svg">
  <h5>- ⚙️ I have some experience with: </h5>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -33,6 +33,7 @@
   <img align="center" alt="Numpy" height="40" width="40" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png">
   <img align="center" alt="Chakra UI" height="40" width="40" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4">
   <br><br>
+  <img align="center" alt="Grafana" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/grafana.svg">
   <img align="center" alt="Power BI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="Excel" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
   <img align="center" alt="Tableau" height="40" width="70" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png">
