@@ -15,6 +15,7 @@
 <div style="display: inline_block">
 
  <h5>- 📝 I’m currently learning: </h5>
+  <img align="center" alt="Docker" height="30" width="110" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png">
   <img align="center" alt="Flask" height="50" width="80" src="https://static.wixstatic.com/media/b2dfda_1c51fe6397954d13a39841c7f66f4a7d~mv2.png/v1/fill/w_480,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b2dfda_1c51fe6397954d13a39841c7f66f4a7d~mv2.png">
   <img align="center" alt="Go" height="70" width="70" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">
  <h5>- ⚙️ I have some experience with: </h5>
