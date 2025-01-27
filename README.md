@@ -3,7 +3,7 @@
 - 📚 I love learning from books, text content and hands-on projects. I believe that the best way to learn is through real-world applications.
 - Currently, I am engaged in undergraduate research at the Laboratório de Assistentes Inteligentes da Proplan-UFPE, where I leverage software engineering, design, and artificial intelligence to develop automated solutions.
 
-- 💚 My previous experiences include working as a Data Specialist at CITi-UFPE  and conducting undergraduate research at GPRT (Grupo de Pesquisa em Redes e Telecomunicações), where I applied data science methodologies to 5G technology."
+- 💚 My previous experiences include working as a Data Specialist at CITi-UFPE  and conducting undergraduate research at GPRT (Grupo de Pesquisa em Redes e Telecomunicações), where I applied data science methodologies to 5G technology.
 
 - 🦋 My biggest passion, besides Data, is education. You can check out my experiences on LinkedIn and let me share knowledge with you on Instagram.
 <div> 
