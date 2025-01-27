@@ -1,8 +1,11 @@
 ### Hey, I'm Bianca Duarte Santos! 👋
 - 🖥️ I'm a Computer Engineering student at CIn-UFPE.
 - 📚 I love learning from books, text content and hands-on projects. I believe that the best way to learn is through real-world applications.
-- Currently, I am engaged in undergraduate research at GPRT (Grupo de Pesquisa em Redes e Telecomunicações), focusing on the application of data science methodologies within the context of 5G technology.
-- 💚 I worked as a Data Specialist at CITi-UFPE until June 2023.
+- Currently, I am engaged in undergraduate research at the Laboratório de Assistentes Inteligentes da Proplan-UFPE, where I leverage software engineering, design, and artificial intelligence to develop automated solutions.
+— 💚 My previous experiences include working as a Data Specialist at CITi-UFPE  and conducting undergraduate research at GPRT (Grupo de Pesquisa em Redes e Telecomunicações), where I applied data science methodologies to 5G technology."
+
+
+
 - 🦋 My biggest passion, besides Data, is education. You can check out my experiences on LinkedIn and let me share knowledge with you on Instagram.
 <div> 
   <a href="https://www.instagram.com/eng.comp.ufpe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
